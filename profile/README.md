@@ -43,15 +43,15 @@ Queremos revolucionar el mundo de los videojuegos, ofreciendo títulos que no so
 ## Equipo
 
 - **<span style="color: #FF6347;">Marcelo</span>** 👨‍💻
-  - **Rol**: Programador Principal
+  - **Rol**: Programador Principal & Escritor & Diseñador de niveles
   - [@macarrp](https://www.github.com/macarrp)
 
 - **<span style="color: #1E90FF;">Ismael</span>** 👨‍💻
-  - **Rol**: Programador Principal y Diseñador
+  - **Rol**: Programador Principal & Artista & Diseñador de juego
   - [@iscarina](https://www.github.com/iscarina)
 
 - **<span style="color: #32CD32;">Marcos</span>** 👨‍💻
-  - **Rol**: Programador Principal
+  - **Rol**: Programador Principal & Productor $ Músico
   - [@mamartdu](https://www.github.com/mamartdu)
 
 ## Contacto
