@@ -1,4 +1,4 @@
-# <span style="color: #A00303;">RiojaDevs</span> 🎮 ![gif](https://64.media.tumblr.com/34590d6cc0fc156e622d013bbd09a239/tumblr_puoc5iIwjd1s6sqnxo1_400.gifv)
+# <span style="color: #A00303;">RiojaDevs</span> 🎮
 
 ![Logo del Equipo](url_del_logo)
 
