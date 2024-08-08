@@ -11,7 +11,7 @@
 5. [Equipo](#equipo)
 6. [Contacto](#contacto)
 
-## Sobre Nosotros
+## Sobre Nosotros **<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVuZWRyazExenIzcDBsMnR1NzJ5eG94bWY4eDAwZWxnbnprbmR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.webp" style="width:110px; height:60px;">**
 
 Somos un equipo de tres ingenieros informáticos con una pasión compartida por el desarrollo de videojuegos. Nuestra habilidad principal es la programación, pero también nos adentramos en otras áreas cruciales del desarrollo de videojuegos, como el diseño, el arte y la narrativa. Nos esforzamos por combinar nuestras habilidades técnicas y creativas para crear experiencias de juego únicas y emocionantes.
 
