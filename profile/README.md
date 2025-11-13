@@ -1,7 +1,5 @@
 # <span style="color: #A00303;">RiojaDevs</span> 🎮
 
-![Logo del Equipo](url_del_logo)
-
 ## Índice
 
 1. [Sobre Nosotros](#sobre-nosotros)
@@ -38,7 +36,8 @@ Queremos revolucionar el mundo de los videojuegos, ofreciendo títulos que no so
    - Plataformas: PC
    - Género: survival horror
 
-3. **En desarrollo ...** 🚧
+3. Pay To Slay
+4. **En desarrollo ...** 🚧
 
 ## Equipo
 
@@ -58,7 +57,7 @@ Queremos revolucionar el mundo de los videojuegos, ofreciendo títulos que no so
 
 Para cualquier consulta, sugerencia o colaboración, puedes contactarnos a través de:
 
-- **Correo electrónico**: [riojaDevs@gmail.com](mailto:correo@example.com) 📧
+- **Correo electrónico**: [riojadevs@gmail.com](mailto:riojadevs@gmail.com) 📧
 - **GitHub**: [github.com/RiojaDevs](https://github.com/RiojaDevs) 💻
 - **Twitter**: [@RiojaDevs](https://twitter.com/nuestro_equipo) 🐦
 
